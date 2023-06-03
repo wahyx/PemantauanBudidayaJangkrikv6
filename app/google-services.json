@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "930007787706",
+    "firebase_url": "https://pemantauan-budidaya-jangkrikv3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pemantauan-budidaya-jangkrikv3",
+    "storage_bucket": "pemantauan-budidaya-jangkrikv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930007787706:android:5d5f166996af3f33367a83",
+        "android_client_info": {
+          "package_name": "com.example.pemantauanbudidayajangkrikv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKY1DokGDj25BgvtW0lPSYaCWZpCPfcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930007787706:android:25911cb631efc07a367a83",
+        "android_client_info": {
+          "package_name": "com.example.pemantauanbudidayajangkrikv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKY1DokGDj25BgvtW0lPSYaCWZpCPfcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930007787706:android:d0bec41f911e2495367a83",
+        "android_client_info": {
+          "package_name": "com.example.pemantauanbudidayajangkrikv6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKY1DokGDj25BgvtW0lPSYaCWZpCPfcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930007787706-doihaaqt87on6ggalkl7p92f5gdopeq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
